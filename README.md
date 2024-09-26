@@ -45,7 +45,7 @@ _______________________________________________________________________________
 |  JOÃO PEDRO VENTURA | ❌ | 
 |  LEONARDO RIBEIRO | ❌ |
 |  MARCOS ANTONIO POVINSKE | ❌ |
-|  TIAGO AUGUSTO SEIXAS  | |
+|  TIAGO AUGUSTO SEIXAS  |❌ |
 |  TIAGO SANTOS | ❌ |
 |  VICTOR |  |
 
