@@ -47,7 +47,7 @@ _______________________________________________________________________________
 |  MARCOS ANTONIO POVINSKE | ❌ |
 |  TIAGO AUGUSTO SEIXAS  |❌ |
 |  TIAGO SANTOS | ❌ |
-|  VICTOR |  |
+|  VICTOR HUGO BARBOSA SOUZA | ❌ |
 
 </body>
 </html>
