@@ -40,7 +40,7 @@ _______________________________________________________________________________
 
 | **INTEGRANTES**| **ASSINATURA**|
 |-------|--------|
-| DIEGO RAFAEL MORENO VITVICKI| |
+| DIEGO RAFAEL MORENO VITVICKI| ❌ |
 | DIEGO SALES GAMERO JOÃO| ❌ |
 |  JOÃO PEDRO VENTURA | ❌ | 
 |  LEONARDO RIBEIRO | ❌ |
